@@ -12,10 +12,11 @@ jobs:
         uses: fifsky/ssh-action@master
         with:
           command: |
+            ls -lah
             cd Portfolio_website
             git pull            
           host: ${{ secrets.HOST }}
           user: ${{ secrets.USERNAME }}
           key: ${{ secrets.PRIVATE_KEY }}
-          args: "-tt -vvv"
+          args: "-tt"
 
