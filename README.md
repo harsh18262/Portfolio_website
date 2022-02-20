@@ -2,11 +2,11 @@
 ## Things to do
 
 
-[ ] Add SSL Cert  
-[ ] Add Resume to Download Button  
+[x] Add SSL Cert  
+[x] Add Resume to Download Button  
 [ ] Update Resume part  
 [ ] Update Contact Page  
 [ ] Update Projects Page  
 [ ] Add Email Script  
 [ ] Add Photo  
-[ ] Create GitOps Pipeline  
+[x] Create GitOps Pipeline  
