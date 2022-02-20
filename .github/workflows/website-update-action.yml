@@ -1,0 +1,9 @@
+name: update website
+  uses: fifsky/ssh-action@master
+  with:
+    command: |
+      cd Portfolio_website
+      git pull
+    host: ${{ secrets.HOST }}
+    user: ${{ secres.USERNAME}}
+    key: ${{ secrets.PRIVATE_KEY}}
