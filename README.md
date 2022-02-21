@@ -5,8 +5,8 @@
 [x] Add SSL Cert  
 [x] Add Resume to Download Button  
 [ ] Update Resume part  
-[ ] Update Contact Page  
+[x] Update Contact Page  
 [ ] Update Projects Page  
-[ ] Add Email Script  
-[ ] Add Photo  
+[x] Add Email Script  
+[x] Add Photo  
 [x] Create GitOps Pipeline  
