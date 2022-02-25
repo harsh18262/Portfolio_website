@@ -4,7 +4,7 @@
 
 [x] Add SSL Cert  
 [x] Add Resume to Download Button  
-[ ] Update Resume part  
+[x] Update Resume part  
 [x] Update Contact Page  
 [ ] Update Projects Page  
 [x] Add Email Script  
